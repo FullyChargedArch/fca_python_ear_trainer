@@ -1,0 +1,170 @@
+{
+	"text_boxes": [
+		{
+			"name": "Note Recognition",
+			"type": "title",
+			"align": "centre",
+			"colour": [0,0,0],
+			"start_x": 640,
+			"start_y": 75
+		}	
+	],
+	"levels": {
+		"C major": {
+			"name": "C major",
+			"gamemode": "Note Recognition",
+			"highest_difficulty_completed": "",
+			"high_score": 0,
+			"highest_accuracy": 0,
+			"completion": 0,
+			"notation": "natural",
+			"notes": ["C","D","E","F","G","A","B"],
+			"start_x": 200,
+			"start_y": 140
+		},
+		"G major": {
+			"name": "G major",
+			"gamemode": "Note Recognition",
+			"highest_difficulty_completed": "",
+			"high_score": 0,
+			"highest_accuracy": 0,
+			"completion": 0,
+			"notation": "sharp",
+			"notes": ["G","A","B","C","D","E","F#"],
+			"start_x": 650,
+			"start_y": 140
+		},
+		"F major": {
+			"name": "F major",
+			"gamemode": "Note Recognition",
+			"highest_difficulty_completed": "",
+			"high_score": 0,
+			"highest_accuracy": 0,
+			"completion": 0,
+			"notation": "flat",
+			"notes": ["F","G","A","Bb","C","D","E"],
+			"start_x": 200,
+			"start_y": 240
+		},
+		"D major": {
+			"name": "D major",
+			"gamemode": "Note Recognition",
+			"highest_difficulty_completed": "",
+			"high_score": 0,
+			"highest_accuracy": 0,
+			"completion": 0,
+			"notation": "sharp",
+			"notes": ["D","E","F#","G","A","B","C#"],
+			"start_x": 650,
+			"start_y": 240
+		},
+		"Bb major": {
+			"name": "Bb major",
+			"gamemode": "Note Recognition",
+			"highest_difficulty_completed": "",
+			"high_score": 0,
+			"highest_accuracy": 0,
+			"completion": 0,
+			"notation": "flat",
+			"notes": ["Bb","C","D","Eb","F","G","A"],
+			"start_x": 200,
+			"start_y": 340
+		},
+		"A major": {
+			"name": "A major",
+			"gamemode": "Note Recognition",
+			"highest_difficulty_completed": "",
+			"high_score": 0,
+			"highest_accuracy": 0,
+			"completion": 0,
+			"notation": "sharp",
+			"notes": ["A","B","C#","D","E","F#","G#"],
+			"start_x": 650,
+			"start_y": 340
+		},
+		"Eb major": {
+			"name": "Eb major",
+			"gamemode": "Note Recognition",
+			"highest_difficulty_completed": "",
+			"high_score": 0,
+			"highest_accuracy": 0,
+			"completion": 0,
+			"notation": "flat",
+			"notes": ["Eb","F","G","Ab","Bb","C","D"],
+			"start_x": 200,
+			"start_y": 440
+		},
+		"E major": {
+			"name": "E major",
+			"gamemode": "Note Recognition",
+			"highest_difficulty_completed": "",
+			"high_score": 0,
+			"highest_accuracy": 0,
+			"completion": 0,
+			"notation": "sharp",
+			"notes": ["E","F#","G#","A","B","C#","E"],
+			"start_x": 650,
+			"start_y": 440
+		},
+		"Ab major": {
+			"name": "Ab major",
+			"gamemode": "Note Recognition",
+			"highest_difficulty_completed": "",
+			"high_score": 0,
+			"highest_accuracy": 0,
+			"completion": 0,
+			"notation": "flat",
+			"notes": ["Ab","Bb","C","Db","Eb","F","G"],
+			"start_x": 200,
+			"start_y": 540
+		},
+		"B major": {
+			"name": "B major",
+			"gamemode": "Note Recognition",
+			"highest_difficulty_completed": "",
+			"high_score": 0,
+			"highest_accuracy": 0,
+			"completion": 0,
+			"notation": "sharp",
+			"notes": ["B","C#","D#","E","F#","G#","A#"],
+			"start_x": 650,
+			"start_y": 540
+		},
+		"Db major": {
+			"name": "Db major",
+			"gamemode": "Note Recognition",
+			"highest_difficulty_completed": "",
+			"high_score": 0,
+			"highest_accuracy": 0,
+			"completion": 0,
+			"notation": "flat",
+			"notes": ["Db","Eb","F","Gb","Ab","Bb","C"],
+			"start_x": 200,
+			"start_y": 640
+		},
+		"Gb/F# major": {
+			"name": "Gb/F# major",
+			"gamemode": "Note Recognition",
+			"highest_difficulty_completed": "",
+			"high_score": 0,
+			"highest_accuracy": 0,
+			"completion": 0,
+			"notation": "both",
+			"notes": ["F#","G#","A#","B","C#","D#","F"],
+			"start_x": 650,
+			"start_y": 640
+		},
+		"All Notes": {
+			"name": "All Notes",
+			"gamemode": "Note Recognition",
+			"highest_difficulty_completed": "",
+			"high_score": 0,
+			"highest_accuracy": 0,
+			"completion": 0,
+			"notation": "both",
+			"notes": ["C","C#","D","D#","E","F","F#","G","G#","A","A#","B"],
+			"start_x": 425,
+			"start_y": 740
+		}
+	}
+}

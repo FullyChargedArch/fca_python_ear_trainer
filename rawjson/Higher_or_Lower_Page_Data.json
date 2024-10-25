@@ -1,0 +1,62 @@
+{
+	"text_boxes": [
+		{
+			"name": "Higher or Lower",
+			"type": "title",
+			"align": "centre",
+			"colour": [0,0,0],
+			"start_x": 640,
+			"start_y": 75
+		}
+	],
+	"levels": {
+		"6-12 Semitones": {
+			"name": "6-12 Semitones",
+			"gamemode": "Higher or Lower",
+			"highest_difficulty_completed": "",
+			"high_score": 0,
+			"highest_accuracy": 0,
+			"completion": 0,
+			"min_semitones": 6,
+			"max_semitones": 12,
+			"start_x": 200,
+			"start_y": 140
+		},
+		"4-8 Semitones": {
+			"name": "4-8 Semitones",
+			"gamemode": "Higher or Lower",
+			"highest_difficulty_completed": "",
+			"high_score": 0,
+			"highest_accuracy": 0,
+			"completion": 0,
+			"min_semitones": 6,
+			"max_semitones": 12,
+			"start_x": 650,
+			"start_y": 140
+		},
+		"2-4 Semitones": {
+			"name": "2-4 Semitones",
+			"gamemode": "Higher or Lower",
+			"highest_difficulty_completed": "",
+			"high_score": 0,
+			"highest_accuracy": 0,
+			"completion": 0,
+			"min_semitones": 2,
+			"max_semitones": 4,
+			"start_x": 200,
+			"start_y": 240
+		},
+		"1-2 Semitones": {
+			"name": "1-2 Semitones",
+			"gamemode": "Higher or Lower",
+			"highest_difficulty_completed": "",
+			"high_score": 0,
+			"highest_accuracy": 0,
+			"completion": 0,
+			"min_semitones": 1,
+			"max_semitones": 2,
+			"start_x": 650,
+			"start_y": 240
+		}
+	}
+}

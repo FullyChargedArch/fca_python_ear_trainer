@@ -1,0 +1,428 @@
+{
+	"text_boxes": [
+		{
+			"name": "Interval Jump Training",
+			"type": "title",
+			"align": "centre",
+			"colour": [0,0,0],
+			"start_x": 640,
+			"start_y": 75
+		},
+		{
+			"name": "0-12 Semitones",
+			"type": "subtitle",
+			"align": "centre",
+			"colour": [0,0,0],
+			"start_x": 640,
+			"start_y": 175
+		},
+		{
+			"name": "12-24 Semitones",
+			"type": "subtitle",
+			"align": "centre",
+			"colour": [0,0,0],
+			"start_x": 640,
+			"start_y": 975
+		},
+		{
+			"name": "0-24 Semitones",
+			"type": "subtitle",
+			"align": "centre",
+			"colour": [0,0,0],
+			"start_x": 640,
+			"start_y": 1775
+		}
+	],
+	"levels": [
+		{
+			"level": "C 0-12 Semitones",
+			"name": "C",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 200,
+			"start_y": 220,
+			"notation": "natural",
+			"notes": ["C","C#","D","D#","E","F","F#","G","G#","A","A#","B"]
+		},
+		{
+			"level": "C# 0-12 Semitones",
+			"name": "C#",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 650,
+			"start_y": 220,
+			"notation": "natural",
+			"notes": ["C#","D","D#","E","F","F#","G","G#","A","A#","B","C"]
+		},
+		{
+			"level": "D 0-12 Semitones",
+			"name": "D",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 200,
+			"start_y": 320,
+			"notation": "natural",
+			"notes": ["D","D#","E","F","F#","G","G#","A","A#","B","C","C#"]
+		},
+		{
+			"level": "D# 0-12 Semitones",
+			"name": "D#",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 650,
+			"start_y": 320,
+			"notation": "natural",
+			"notes": ["D#","E","F","F#","G","G#","A","A#","B","C","C#","D"]
+		},
+		{
+			"level": "E 0-12 Semitones",
+			"name": "E",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 200,
+			"start_y": 420,
+			"notation": "natural",
+			"notes": ["E","F","F#","G","G#","A","A#","B","C","C#","D","D#"]
+		},
+		{
+			"level": "F 0-12 Semitones",
+			"name": "F",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 650,
+			"start_y": 420,
+			"notation": "natural",
+			"notes": ["F","F#","G","G#","A","A#","B","C","C#","D","D#","E"]
+		},
+		{
+			"level": "F# 0-12 Semitones",
+			"name": "F#",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 200,
+			"start_y": 520,
+			"notation": "natural",
+			"notes": ["F#","G","G#","A","A#","B","C","C#","D","D#","E","F"]
+		},
+		{
+			"level": "G 0-12 Semitones",
+			"name": "G",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 650,
+			"start_y": 520,
+			"notation": "natural",
+			"notes": ["G","G#","A","A#","B","C","C#","D","D#","E","F","F#"]
+		},
+		{
+			"level": "G# 0-12 Semitones",
+			"name": "G#",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 200,
+			"start_y": 620,
+			"notation": "natural",
+			"notes": ["G#","A","A#","B","C","C#","D","D#","E","F","F#","G"]
+		},
+		{
+			"level": "A 0-12 Semitones",
+			"name": "A",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 650,
+			"start_y": 620,
+			"notation": "natural",
+			"notes": ["A","A#","B","C","C#","D","D#","E","F","F#","G","G#"]
+		},
+		{
+			"level": "A# 0-12 Semitones",
+			"name": "A#",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 200,
+			"start_y": 720,
+			"notation": "natural",
+			"notes": ["A#","B","C","C#","D","D#","E","F","F#","G","G#","A"]
+		},
+		{
+			"level": "B 0-12 Semitones",
+			"name": "B",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 650,
+			"start_y": 720,
+			"notation": "natural",
+			"notes": ["B","C","C#","D","D#","E","F","F#","G","G#","A","A#"]
+		},
+		{
+			"level": "All 0-12 Semitones",
+			"name": "All Notes",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 425,
+			"start_y": 820,
+			"notation": "natural",
+			"notes": ["C","C#","D","D#","E","F","F#","G","G#","A","A#","B"]
+		},
+		{
+			"level": "C 12-24 Semitones",
+			"name": "C",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 200,
+			"start_y": 1020,
+			"notation": "natural",
+			"notes": ["C","C#","D","D#","E","F","F#","G","G#","A","A#","B"]
+		},
+		{
+			"level": "C# 12-24 Semitones",
+			"name": "C#",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 650,
+			"start_y": 1020,
+			"notation": "natural",
+			"notes": ["C#","D","D#","E","F","F#","G","G#","A","A#","B","C"]
+		},
+		{
+			"level": "D 12-24 Semitones",
+			"name": "D",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 200,
+			"start_y": 1120,
+			"notation": "natural",
+			"notes": ["D","D#","E","F","F#","G","G#","A","A#","B","C","C#"]
+		},
+		{
+			"level": "D# 12-24 Semitones",
+			"name": "D#",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 650,
+			"start_y": 1120,
+			"notation": "natural",
+			"notes": ["D#","E","F","F#","G","G#","A","A#","B","C","C#","D"]
+		},
+		{
+			"level": "E 12-24 Semitones",
+			"name": "E",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 200,
+			"start_y": 1220,
+			"notation": "natural",
+			"notes": ["E","F","F#","G","G#","A","A#","B","C","C#","D","D#"]
+		},
+		{
+			"level": "F 12-24 Semitones",
+			"name": "F",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 650,
+			"start_y": 1220,
+			"notation": "natural",
+			"notes": ["F","F#","G","G#","A","A#","B","C","C#","D","D#","E"]
+		},
+		{
+			"level": "F# 12-24 Semitones",
+			"name": "F#",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 200,
+			"start_y": 1320,
+			"notation": "natural",
+			"notes": ["F#","G","G#","A","A#","B","C","C#","D","D#","E","F"]
+		},
+		{
+			"level": "G 12-24 Semitones",
+			"name": "G",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 650,
+			"start_y": 1320,
+			"notation": "natural",
+			"notes": ["G","G#","A","A#","B","C","C#","D","D#","E","F","F#"]
+		},
+		{
+			"level": "G# 12-24 Semitones",
+			"name": "G#",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 200,
+			"start_y": 1420,
+			"notation": "natural",
+			"notes": ["G#","A","A#","B","C","C#","D","D#","E","F","F#","G"]
+		},
+		{
+			"level": "A 12-24 Semitones",
+			"name": "A",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 650,
+			"start_y": 1420,
+			"notation": "natural",
+			"notes": ["A","A#","B","C","C#","D","D#","E","F","F#","G","G#"]
+		},
+		{
+			"level": "A# 12-24 Semitones",
+			"name": "A#",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 200,
+			"start_y": 1520,
+			"notation": "natural",
+			"notes": ["A#","B","C","C#","D","D#","E","F","F#","G","G#","A"]
+		},
+		{
+			"level": "B 12-24 Semitones",
+			"name": "B",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 650,
+			"start_y": 1520,
+			"notation": "natural",
+			"notes": ["B","C","C#","D","D#","E","F","F#","G","G#","A","A#"]
+		},
+		{
+			"level": "All 12-24 Semitones",
+			"name": "All Notes",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 425,
+			"start_y": 1620,
+			"notation": "natural",
+			"notes": ["C","C#","D","D#","E","F","F#","G","G#","A","A#","B"]
+		},
+		{
+			"level": "C 0-24 Semitones",
+			"name": "C",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 200,
+			"start_y": 1820,
+			"notation": "natural",
+			"notes": ["C","C#","D","D#","E","F","F#","G","G#","A","A#","B"]
+		},
+		{
+			"level": "C# 0-24 Semitones",
+			"name": "C#",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 650,
+			"start_y": 1820,
+			"notation": "natural",
+			"notes": ["C#","D","D#","E","F","F#","G","G#","A","A#","B","C"]
+		},
+		{
+			"level": "D 0-24 Semitones",
+			"name": "D",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 200,
+			"start_y": 1920,
+			"notation": "natural",
+			"notes": ["D","D#","E","F","F#","G","G#","A","A#","B","C","C#"]
+		},
+		{
+			"level": "D# 0-24 Semitones",
+			"name": "D#",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 650,
+			"start_y": 1920,
+			"notation": "natural",
+			"notes": ["D#","E","F","F#","G","G#","A","A#","B","C","C#","D"]
+		},
+		{
+			"level": "E 0-24 Semitones",
+			"name": "E",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 200,
+			"start_y": 2020,
+			"notation": "natural",
+			"notes": ["E","F","F#","G","G#","A","A#","B","C","C#","D","D#"]
+		},
+		{
+			"level": "F 0-24 Semitones",
+			"name": "F",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 650,
+			"start_y": 2020,
+			"notation": "natural",
+			"notes": ["F","F#","G","G#","A","A#","B","C","C#","D","D#","E"]
+		},
+		{
+			"level": "F# 0-24 Semitones",
+			"name": "F#",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 200,
+			"start_y": 2120,
+			"notation": "natural",
+			"notes": ["F#","G","G#","A","A#","B","C","C#","D","D#","E","F"]
+		},
+		{
+			"level": "G 0-24 Semitones",
+			"name": "G",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 650,
+			"start_y": 2120,
+			"notation": "natural",
+			"notes": ["G","G#","A","A#","B","C","C#","D","D#","E","F","F#"]
+		},
+		{
+			"level": "G# 0-24 Semitones",
+			"name": "G#",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 200,
+			"start_y": 2220,
+			"notation": "natural",
+			"notes": ["G#","A","A#","B","C","C#","D","D#","E","F","F#","G"]
+		},
+		{
+			"level": "A 0-24 Semitones",
+			"name": "A",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 650,
+			"start_y": 2220,
+			"notation": "natural",
+			"notes": ["A","A#","B","C","C#","D","D#","E","F","F#","G","G#"]
+		},
+		{
+			"level": "A# 0-24 Semitones",
+			"name": "A#",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 200,
+			"start_y": 2320,
+			"notation": "natural",
+			"notes": ["A#","B","C","C#","D","D#","E","F","F#","G","G#","A"]
+		},
+		{
+			"level": "B 0-24 Semitones",
+			"name": "B",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 650,
+			"start_y": 2320,
+			"notation": "natural",
+			"notes": ["B","C","C#","D","D#","E","F","F#","G","G#","A","A#"]
+		},
+		{
+			"level": "All 0-24 Semitones",
+			"name": "All Notes",
+			"best_score": "-",
+			"completion": 0,
+			"start_x": 425,
+			"start_y": 2420,
+			"notation": "natural",
+			"notes": ["C","C#","D","D#","E","F","F#","G","G#","A","A#","B"]
+		}
+	]
+}

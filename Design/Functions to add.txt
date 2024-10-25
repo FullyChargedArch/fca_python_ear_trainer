@@ -1,0 +1,97 @@
+Menu system
+
+Rounds
+Lives
+Select number of rounds
+Select number of lives
+Select octave range
+Select scale
+High scores
+Accuracy in endless mode
+Toggle note names on keys
+
+Reveal correct answer
+
+ALL STAGES:
+Difficulties
+-Easy Difficulty: Infinite Lives
+-Medium Difficulty: 3 Lives per round
+-Hard Difficulty: 3 Lives per game
+
+Completion Rewards
+-1 Star: Complete easy difficulty
+-2 Stars: Complete medium difficulty with 50% accuracy
+-3 Stars: Complete medium difficulty with 80% accuracy
+-4 Stars: Complete medium difficulty with 100% accuracy
+-5 Stars: Complete hard difficulty
+-Golden Border: Complete hard difficulty with 100% accuracy
+
+HIGHER OR LOWER/SHARP OR FLAT
+-Level 1: 6-12 semitones
+-Level 2: 4-8 semitones
+-Level 3: 2-4 semitones
+-Level 4: 1-2 semitones
+-Level 5: Sharp or flat i.e. <= 50 cents
+
+INTONATION TRAINING
+-Level 1: Sharp or flat, no initial reference pitch
+-Level 2: Correct the pitch
+
+NOTE RECOGNITION
+-All Keys + All notes (13 Levels)
+-1 oct keyboard
+-requires correct note i.e. C
+
+PITCH RECOGNITION
+-All Keys + All Notes (13 Levels)
+-multiple oct keyboard
+-requires correct pitch i.e. C4
+
+KEY RECOGNITION
+-needs development
+-series of notes played and key determined from notes?
+
+INTERVAL RECOGNITION 1
+-Within 1 oct
+-plays two notes one after the other and requires the correct interval i.e. maj3
+
+INTERVAL RECOGNITION 2
+-Within 1 oct, simultaneous
+-plays two notes at the same time and requires the same interval
+
+INTERVAL RECOGNITION 3
+-Within 2 oct
+-same as IR1 but with more notes
+
+INTERVAL RECOGNITION 4
+-Within 2, simultaneous
+-same as IR2 but with more notes
+
+DIATONIC CHORD RECOGNITION
+-two notes played simultaneous
+-requries two notes to be played on the keyboard
+
+CHORD RECOGNITION 1
+-3 note chords
+-major or minor
+-select chords from boxes
+
+CHORD RECOGNITION 2
+-3 note chords
+-requires notes to be played
+
+CHORD RECONITION 3
+-4 note chords
+-requires notes to be played
+
+CHORD RECOGNITION 4
+-4+ note chords
+-requires notes to be played
+
+MULTIPLE NOTE RECOGNITION 1
+-multiple notes played in sequence
+-requires repetition of notes on keyboard
+
+MULTIPLE NOTE RECONGITION 2
+-multiple notes played at the same time
+-note played on keyboard
